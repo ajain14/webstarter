@@ -35,8 +35,8 @@ Add css loader
 
 4. ``touch index.html webpack.config.js``
 add to webpack
-
-``var path = require('path');
+```
+var path = require('path');
 var webpack = require('webpack');
 
 module.exports = {
