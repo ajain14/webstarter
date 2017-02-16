@@ -33,7 +33,7 @@ Add css loader
 3. ``mkdir js css``
 
 
-4. ``touch index.html webpack.config.js''
+4. ``touch index.html webpack.config.js``
 add to webpack
 
 ```var path = require('path');
@@ -55,5 +55,3 @@ module.exports = {
     ]
   },
 };
-
-```
