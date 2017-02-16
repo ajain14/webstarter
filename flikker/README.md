@@ -1,6 +1,6 @@
 1. ``npm init``
 
-```name: (flikker) myapp_fed
+``name: (flikker) myapp_fed
 version: (1.0.0)
 description:
 entry point: (index.js)
@@ -22,7 +22,7 @@ About to write to /Users/Astha/Desktop/flikker/package.json:
   "author": "",
   "license": "ISC"
 }
-```
+``
 
 2. ``npm install --save-dev react react-dom react-router webpack webpack-dev-server``
 Babel installation for JSX support
